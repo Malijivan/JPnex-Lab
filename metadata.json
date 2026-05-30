@@ -1,0 +1,6 @@
+{
+  "name": "JPnex Agency Portfolio",
+  "description": "Modern agency portfolio and order system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
