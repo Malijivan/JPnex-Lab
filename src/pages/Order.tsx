@@ -79,7 +79,7 @@ export default function Order() {
           Formspree Integration
         */}
         <form 
-          action="https://formspree.io/f/xojbbogp" 
+          action="https://formspree.io/f/mnjrkngn" 
           method="POST"
           onSubmit={handleSubmit}
           className="space-y-6 relative z-10"

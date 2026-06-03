@@ -169,7 +169,7 @@ export default function Home() {
           </div>
           
           <form 
-            action="https://formspree.io/f/xojbbogp"
+            action="https://formspree.io/f/mnjrkngn"
             method="POST"
             onSubmit={handleContactSubmit}
             className="space-y-6 relative z-10"
